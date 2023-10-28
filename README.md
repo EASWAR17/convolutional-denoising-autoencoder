@@ -21,10 +21,10 @@ We create two networks , one for encoding and one for decoding.
 
 ## PROGRAM
 ```
-Developed By: JAGAN A
-Register Number: 21222123037
+Developed By: Easwar J
+Register Number: 212221230024
 ```
-```
+```python
 from tensorflow import keras
 from tensorflow.keras import layers
 from tensorflow.keras import utils
